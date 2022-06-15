@@ -8,5 +8,8 @@ The below commands are used for local to github push commands
 5)git add .  => to add files to stage
 6)git commit -m "" => to commit the files into local repository
 7) Create new repo in GITHUB
-8)Add Origin -- git push --set-upstream origin master
+8)Add Origin
+git remote add origin <repo link>
+git
+ -- git push --set-upstream origin master
 7)git push  => to push file to reposotory
